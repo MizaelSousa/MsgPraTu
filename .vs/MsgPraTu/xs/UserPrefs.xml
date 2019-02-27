@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{4449864B-777F-4B42-BD75-F76E2F8D2E4A}|Default">
+  <MonoDevelop.Ide.ItemProperties.MsgPraTu.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MsgPraTu.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MsgPraTu/MainPage.xaml.cs">
+    <Files>
+      <File FileName="MsgPraTu/MainPage.xaml.cs" Line="27" Column="43" />
+      <File FileName="MsgPraTu/MainPage.xaml" Line="19" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
